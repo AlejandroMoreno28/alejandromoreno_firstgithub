@@ -1,2 +1,6 @@
 This is the file pict2 ver 0.0001
+<<<<<<< HEAD
 It's the second line of firstbranch
+=======
+It's the second line of secondbranch
+>>>>>>> 51d92b799b51db308fa69378a6f39ede517b6936
